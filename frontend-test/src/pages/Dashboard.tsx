@@ -88,7 +88,7 @@ function Dashboard() {
                                         position: "sticky",
                                         top: "0",
 
-                                        zIndex: 1,
+                                        zIndex: 0,
 
                                     }}
                                 >
